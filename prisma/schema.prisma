@@ -1,7 +1,3 @@
-// ----------------------------
-// ResolveAI clean schema
-// ----------------------------
-
 generator client {
   provider = "prisma-client-js"
 }
